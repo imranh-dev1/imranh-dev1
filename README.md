@@ -26,12 +26,14 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Imran from Bangladesh 🇧🇩<br><br>
-  - 🔭 I’m currently working as a MERN Stack Developer at <a href="https://softvence.agency/">Softvence Agency</a> (Software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.<br> 
+<p data-importer="text" align="left">I'm Imran from Bangladesh 🇧🇩.<br><br>
+  - 🔭 I’m currently working as a MERN Stack Developer at <a href="https://softvence.agency/">Softvence Agency</a> (software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.<br> 
   - 🌱 I'm currently learning system design, AWS, Docker, and scalable backend architecture.<br> 
   - 💻 I enjoy developing secure, high-performance, and user-friendly web applications with clean and maintainable code.<br> 
   - 🤝 I'm open to collaborating on Full Stack, SaaS, and open-source projects.<br> 
   - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. 
+  - 🎯 Goal: Building scalable, high-performance full-stack applications and contributing to open-source projects.
+  - 🎲 Fun fact: I can spend hours debugging a single line of code, only to realize I missed a semicolon! 😅
 </p>
 
 ###
@@ -62,13 +64,117 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥  Current Stats</h3>
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com///stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com///languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com///snake-output/snake.svg" alt="Snake animation" />
+
+
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com///trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com///pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com///pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com///pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ###
 
@@ -139,11 +245,11 @@ I'm Imran, a passionate MERN Stack developer with a strong focus on UI/UX and fu
 ## 📊 Current Stats
 <div align="center"> 
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-information&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&height=200&width=400)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranh-dev1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&height=200&width=400)
   
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=imran-information&theme=radical&hide_border=true&border_radius=12&height=200&width=400)](https://git.io/streak-stats)
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=imran-imranh-dev1&theme=radical&hide_border=true&border_radius=12&height=200&width=400)](https://git.io/streak-stats)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-information&layout=compact&theme=radical&hide_border=true&border_radius=12&height=200&width=400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranh-dev1&layout=compact&theme=radical&hide_border=true&border_radius=12&height=200&width=400)
 </div>
 
 ## 🌟 Latest Projects
