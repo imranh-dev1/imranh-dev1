@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://x.com/imranh_dev1">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="twitter" /> twitter
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 
   <a href="https://wa.me/8801646048556">
