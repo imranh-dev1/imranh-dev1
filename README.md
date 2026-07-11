@@ -27,11 +27,12 @@
 ###
 
 <p data-importer="text" align="left">I'm Imran from Bangladesh 🇧🇩<br><br>
-  - 🔭 I’m currently working as a Full Stack Developer, building modern web applications with React, Next.js, Node.js, Express.js, PostgreSQL, and Prisma.<br> 
+  - 🔭 I’m currently working as a MERN Stack Developer at <a href="https://softvence.agency/">Softvence Agency</a> (Software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.<br> 
   - 🌱 I'm currently learning system design, AWS, Docker, and scalable backend architecture.<br> 
   - 💻 I enjoy developing secure, high-performance, and user-friendly web applications with clean and maintainable code.<br> 
   - 🤝 I'm open to collaborating on Full Stack, SaaS, and open-source projects.<br> 
-  - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. </p>
+  - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. 
+</p>
 
 ###
 
