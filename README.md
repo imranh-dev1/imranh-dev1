@@ -10,18 +10,15 @@
 
 ###
 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/imranh-dev1)
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imran-portfolio-iota.vercel.app/)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranh-dev1/)
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imranh_dev1)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranh.dev1@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801646048556)
 
 ###
 
-
-
-###
-
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h1 data-importer="text" align="center">hey there, I'm Imran Hossain! 👋</h1>
 
 ###
 
@@ -29,7 +26,12 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p data-importer="text" align="left">I'm Imran from Bangladesh 🇧🇩<br><br>
+  - 🔭 I’m currently working as a Full Stack Developer, building modern web applications with React, Next.js, Node.js, Express.js, PostgreSQL, and Prisma.<br> 
+  - 🌱 I'm currently learning system design, AWS, Docker, and scalable backend architecture.<br> 
+  - 💻 I enjoy developing secure, high-performance, and user-friendly web applications with clean and maintainable code.<br> 
+  - 🤝 I'm open to collaborating on Full Stack, SaaS, and open-source projects.<br> 
+  - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. </p>
 
 ###
 
