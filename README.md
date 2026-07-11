@@ -40,8 +40,8 @@
   - 🌱 I'm currently learning system design, AWS, Docker, and scalable backend architecture.<br> 
   - 💻 I enjoy developing secure, high-performance, and user-friendly web applications with clean and maintainable code.<br> 
   - 🤝 I'm open to collaborating on Full Stack, SaaS, and open-source projects.<br> 
-  - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. 
-  - 🎯 Goal: Building scalable, high-performance full-stack applications and contributing to open-source projects.
+  - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills. <br> 
+  - 🎯 Goal: Building scalable, high-performance full-stack applications and contributing to open-source projects.<br> 
   - 🎲 Fun fact: I can spend hours debugging a single line of code, only to realize I missed a semicolon! 😅
 </p>
 
