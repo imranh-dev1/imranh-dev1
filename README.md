@@ -25,9 +25,16 @@
 </div>
 
 ###
+
+<h1 data-importer="text" align="center">HI! I'm Imran Hossain.</h1>
+
 ###
 
-<h1 data-importer="text" align="center">hey there, I'm Imran Hossain! 👋</h1>
+<h2 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=13BBFF&center=true&vCenter=true&width=435&height=40&lines=I'm+Imran+Hossain.;Full+Stack+Developer.;Specialize%2C+JavaScript+%7C+Typescript;React+%7C+Next.js+%7C+NodeJS+%7C+Express;Prisma+%7C+PostgreSQL+%7C+Docker+)](https://git.io/typing-svg)
+  
+</h2>
 
 ###
 
