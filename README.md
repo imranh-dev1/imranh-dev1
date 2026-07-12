@@ -130,6 +130,8 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 <div align="center">
 
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=imranh-dev1&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranh-dev1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranh-dev1&layout=compact&theme=radical)
