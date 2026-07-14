@@ -40,7 +40,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 ### 🚀 Current Activities
 
 - 🌍 I'm based in Bangladesh 🇧🇩.
-- 🔭 I'm currently working as a MERN Stack Developer at [Softvence Agency](https://softvence.agency/) (software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.
+- 🔭 I'm currently working as a Front-End Developer at [Softvence Agency](https://softvence.agency/) (software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.
 - 🌱 I'm currently learning system design, AWS, Docker, and scalable backend architecture.
 - 💻 I enjoy developing secure, high-performance, and user-friendly web applications with clean and maintainable code.
 - 🤝 I'm open to collaborating on Full Stack, SaaS, and open-source projects.
