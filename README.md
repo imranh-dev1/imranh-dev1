@@ -50,93 +50,50 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 ---
 
-### 🛠 Language and Tools
+## 🎨 Frontend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="30" alt="ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="circleci logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo" />
-</div>
+[![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=next.js&logoColor=FFFFFF)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+[![Material UI](https://img.shields.io/badge/Material_UI-161B22?style=for-the-badge&logo=mui&logoColor=007FFF)](https://mui.com/)
+[![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
 
----
+## ⚙️ Backend & Database
 
-## 🛠 Technologies & Tools That I Know
+[![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-161B22?style=for-the-badge&logo=prisma&logoColor=FFFFFF)](https://www.prisma.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
+[![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=DC382D)](https://redis.io/)
 
-<div align="center">
+## ☁️ Cloud & Hosting
 
-### 🚀 Frontend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-<img width="16" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://www.cloudflare.com/)
+[![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-161B22?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://vercel.com/)
 
-### ⚙️ Backend Development
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
-<img width="16" />
-<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-<img width="16" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-<img width="16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+## 🛠️ Tools
 
-### 🛠 Tools & Version Control
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="16" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
-
-</div>
-
----
-
-## 📊 Current Stats
-
-<div align="center">
-
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=imranh-dev1&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranh-dev1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranh-dev1&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imranh-dev1&theme=radical)](https://git.io/streak-stats)
-
-</div>
+[![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://www.figma.com/)
+[![npm](https://img.shields.io/badge/npm-161B22?style=for-the-badge&logo=npm&logoColor=CB3837)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-161B22?style=for-the-badge&logo=yarn&logoColor=2C8EBB)](https://yarnpkg.com/)
+[![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+[![Notion](https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://www.notion.so/)
 
 ---
 
