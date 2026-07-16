@@ -97,11 +97,13 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 ---
 
-## GitHub Stats
+## My GitHub Stats 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=imranh-dev1)](https://github.com/stats-organization/github-stats-extended)
-![GitHub Stats](https://streak-stats.demolab.com?user=imranh-dev1&theme=default&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranh-dev1&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=imranh-dev1&theme=github_dark_dimmed&title_color=13BBFF&text_color=FFFFFF&icon_color=13BBFF&border_color=13BBFF&bg_color=161B22)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imranh-dev1&theme=transparent&background=161B22&ring=13BBFF&fire=13BBFF&currStreakLabel=13BBFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=13BBFF)](https://git.io/streak-stats)
+
+![Top Languages](https://vani-stats.vercel.app/api?username=imranh-dev1&theme=dark)
 
 ---
 
