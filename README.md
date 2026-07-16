@@ -97,13 +97,36 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 ---
 
-## My GitHub Stats 
+## My GitHub Stats  
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=imranh-dev1&theme=github_dark_dimmed&title_color=13BBFF&text_color=FFFFFF&icon_color=13BBFF&border_color=13BBFF&bg_color=161B22)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a>
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=imranh-dev1&theme=github_dark_dimmed&title_color=13BBFF&text_color=FFFFFF&icon_color=13BBFF&border_color=13BBFF&bg_color=161B22"
+      width="49%"
+      height="200"
+      alt="GitHub Stats"
+    />
+  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imranh-dev1&theme=transparent&background=161B22&ring=13BBFF&fire=13BBFF&currStreakLabel=13BBFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=13BBFF)](https://git.io/streak-stats)
+  <a>
+    <img
+      src="https://streak-stats.demolab.com?user=imranh-dev1&theme=transparent&background=161B22&ring=13BBFF&fire=13BBFF&currStreakLabel=13BBFF&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&border=13BBFF"
+      width="49%"
+      height="200"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-![Top Languages](https://vani-stats.vercel.app/api?username=imranh-dev1&theme=dark)
+<p align="center">
+  <img
+    src="https://vani-stats.vercel.app/api?username=imranh-dev1&theme=dark"
+    width="100%"
+    height="250"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
