@@ -91,8 +91,6 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 [![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 [![Notion](https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://www.notion.so/)
 
----
-
 ## My GitHub Stats  
 
 <p align="center">
