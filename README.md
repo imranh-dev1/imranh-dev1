@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imranh-dev1/imranh-dev1/main/imran-hossain.png" width="100%" alt="Banner" />
+</p>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
