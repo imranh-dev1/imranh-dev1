@@ -122,16 +122,12 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
   />
 </p>
 
----
-
 ## 🌟 Latest Projects
 
 - 🌐 [Hostel Management System](https://hostel-management-system-78bac.web.app/)
 - 🌐 [Medical Camp Management](https://medical-camp-management-1b67d.web.app/)
 - 🌐 [Next Generation](https://next-gen-230be.web.app/)
 - 🌐 [Chill Gamer](https://chill-gamer-3528e.web.app/)
-
----
 
 ## 📫 Connect with Me
 
