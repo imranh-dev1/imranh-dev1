@@ -31,13 +31,13 @@
 
 </h2>
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a Full Stack Developer from Bangladesh, building modern, responsive web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL. I enjoy turning ideas into real products, solving problems through code, and continuously learning new technologies. Currently, I'm contributing to projects at Softvence, creating scalable and user-friendly web apps.
 
 ---
 
-### 🚀 Current Activities
+## 🚀 Current Activities
 
 - 🌍 I'm based in Bangladesh 🇧🇩.
 - 🔭 I'm currently working as a Front-End Developer at [Softvence Agency](https://softvence.agency/) (software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.
