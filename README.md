@@ -35,8 +35,6 @@
 
 I'm a Full Stack Developer from Bangladesh, building modern, responsive web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL. I enjoy turning ideas into real products, solving problems through code, and continuously learning new technologies. Currently, I'm contributing to projects at Softvence, creating scalable and user-friendly web apps.
 
----
-
 ## 🚀 Current Activities
 
 - 🌍 I'm based in Bangladesh 🇧🇩.
@@ -47,8 +45,6 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 - ⚡ In my free time, I explore new technologies, contribute to personal projects, and continuously improve my development skills.
 - 🎯 Goal: Building scalable, high-performance full-stack applications and contributing to open-source projects.
 - 🎲 Fun fact: I can spend hours debugging a single line of code, only to realize I missed a semicolon! 😅
-
----
 
 ## 🎨 Frontend
 
