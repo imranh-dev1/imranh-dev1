@@ -97,6 +97,14 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 ---
 
+## GitHub Stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=imranh-dev1)](https://github.com/stats-organization/github-stats-extended)
+![GitHub Stats](https://streak-stats.demolab.com?user=imranh-dev1&theme=default&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranh-dev1&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌟 Latest Projects
 
 - 🌐 [Hostel Management System](https://hostel-management-system-78bac.web.app/)
