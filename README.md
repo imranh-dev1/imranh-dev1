@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imranh-dev1/imranh-dev1/main/imran-hossain.png" width="100%" alt="Banner" />
+  <img src="./imran-hossain.png" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
