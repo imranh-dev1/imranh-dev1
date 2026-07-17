@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imran-hossain.png" width="100%" alt="Banner" />
+  <img src="./imran hossain.png" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
