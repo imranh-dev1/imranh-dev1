@@ -35,11 +35,11 @@
 
 </h2>
 
-## 👩‍💻 About Me
+## < About Me </>
 
 I'm a Full Stack Developer from Bangladesh, building modern, responsive web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL. I enjoy turning ideas into real products, solving problems through code, and continuously learning new technologies. Currently, I'm contributing to projects at Softvence, creating scalable and user-friendly web apps.
 
-## 🚀 Current Activities
+## < Current Activities </>
 
 - 🌍 I'm based in Bangladesh 🇧🇩.
 - 🔭 I'm currently working as a Front-End Developer at [Softvence Agency](https://softvence.agency/) (software company) in Dhaka, BD, building modern, scalable web applications and custom digital solutions.
@@ -50,7 +50,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 - 🎯 Goal: Building scalable, high-performance full-stack applications and contributing to open-source projects.
 - 🎲 Fun fact: I can spend hours debugging a single line of code, only to realize I missed a semicolon! 😅
 
-## 🎨 Frontend
+## < Frontend </>
 
 [![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -63,7 +63,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 [![Material UI](https://img.shields.io/badge/Material_UI-161B22?style=for-the-badge&logo=mui&logoColor=007FFF)](https://mui.com/)
 [![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
 
-## ⚙️ Backend & Database
+## < Backend & Database </>
 
 [![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
@@ -74,7 +74,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 [![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
 [![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=DC382D)](https://redis.io/)
 
-## ☁️ Cloud & Hosting
+## < Cloud & Hosting </>
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://www.cloudflare.com/)
@@ -83,7 +83,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 [![Netlify](https://img.shields.io/badge/Netlify-161B22?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://vercel.com/)
 
-## 🛠️ Tools
+## < Tools </>
 
 [![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/)
@@ -95,7 +95,7 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 [![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
 [![Notion](https://img.shields.io/badge/Notion-161B22?style=for-the-badge&logo=notion&logoColor=FFFFFF)](https://www.notion.so/)
 
-## My GitHub Stats  
+## < My GitHub Stats </>  
 
 <p align="center">
   <a>
@@ -126,14 +126,14 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
   />
 </p>
 
-## 🌟 Latest Projects
+## < Latest Projects </>
 
 - 🌐 [Hostel Management System](https://hostel-management-system-78bac.web.app/)
 - 🌐 [Medical Camp Management](https://medical-camp-management-1b67d.web.app/)
 - 🌐 [Next Generation](https://next-gen-230be.web.app/)
 - 🌐 [Chill Gamer](https://chill-gamer-3528e.web.app/)
 
-## 📫 Connect with Me
+## < Connect with Me </>
 
 <div align="center">
 
