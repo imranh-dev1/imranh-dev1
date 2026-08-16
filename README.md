@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/imran-hossain-banner.png" width="100%" alt="Banner" />
-</p>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -9,6 +6,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=imranh-dev1.imranh-dev1" />
 </div>
+
+<p align="center">
+  <img src="./assets/imran-hossain-banner.png" width="100%" alt="Banner" />
+</p> 
 
 ---
 
