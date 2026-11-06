@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/imran-hossain-banner.png" width="100%" alt="Banner" />
+  <img src="./assets/Imran-hossain-git-banner.png" width="100%" alt="Banner" />
 </p> 
 
 ---
