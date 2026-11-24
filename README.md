@@ -129,6 +129,10 @@ I'm a Full Stack Developer from Bangladesh, building modern, responsive web appl
 
 ## < Latest Projects </>
 
+- 🌐 [Rental Property Management](https://rent-nest-liart.vercel.app/)
+- 🌐 [Civic Service Platform](https://city-complaint-platform-frontend.vercel.app/)
+- 🌐 [Dev Review](https://dev-review-frontend.vercel.app/)
+- 🌐 [Doctor Tracker](https://doctor-tracker-ui.vercel.app/)
 - 🌐 [Hostel Management System](https://hostel-management-system-78bac.web.app/)
 - 🌐 [Medical Camp Management](https://medical-camp-management-1b67d.web.app/)
 - 🌐 [Next Generation](https://next-gen-230be.web.app/)
